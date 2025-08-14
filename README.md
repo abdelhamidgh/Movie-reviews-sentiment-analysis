@@ -18,5 +18,6 @@ This project performs sentiment analysis on movie reviews to classify them as **
 
 ## Project Structure
 ── Movie_review_sentiment_analysis.ipynb # Main notebook
-├── data
+├── data (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+|-- 
 └── README.md # Project documentation
